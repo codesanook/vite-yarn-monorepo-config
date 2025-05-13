@@ -9,9 +9,10 @@ yarn create vite packages/utils -- --template react-ts
 ## Todo 
 - [x] Multiple projects
 - [x] Reference library from other project
+- [x] Build simple libraries and can be used from Window object
+- [ ] Build React component libraries and can be used from Window object
 - [ ] External libraries from CDN
-- [ ] Build libraries and can be used from Window object
-- [ ] Build Sass
+- [ ] Build SCSS
 - [ ] Url/File resolver
 
 
