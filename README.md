@@ -7,10 +7,9 @@ yarn create vite packages/utils -- --template react-ts
 
 
 ## Todo 
-- [ ] Multiple projects
+- [x] Multiple projects
 - [ ] Reference library from other project
 - [ ] Build libraries
 - [ ] External libraries from CDN
 - [ ] Build Sass
 - [ ] Url/File resolver
-- [ ] 
