@@ -1,1 +1,1 @@
-export * from './calc';
+export { default as add } from './add';

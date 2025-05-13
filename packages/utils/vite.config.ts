@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      input: 'src/index.ts'
-
+      input: 'src/index.ts',
+      preserveEntrySignatures: 'allow-extension',
     }
   }
 })

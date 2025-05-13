@@ -1,8 +1,8 @@
 {
   "name": "@mono/utils",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
+  "main": "src/index.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
