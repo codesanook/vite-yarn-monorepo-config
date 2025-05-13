@@ -1,0 +1,15 @@
+{
+  "name": "vite-yarn-monorepo-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:codesanook/vite-yarn-monorepo-config.git",
+  "author": "aaronamm <theeranitp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
